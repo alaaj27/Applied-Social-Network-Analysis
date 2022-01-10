@@ -15,3 +15,4 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 ## References
 [[1] Applied Social Network Analysis in Python - University of Michigan](https://www.coursera.org/learn/python-social-network-analysis/home/info)
+# Applied-Social-Network-Analysis
